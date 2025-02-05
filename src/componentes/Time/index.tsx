@@ -1,5 +1,5 @@
+import { IColaborador } from '../compartilhado/interfaces/IColaborador'
 import Colaborador from '../Colaborador'
-import { IColaborador } from '../compartilhado/interfaces/iColaborador'
 import './Time.css'
 
 interface TimeProps {
